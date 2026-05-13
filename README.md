@@ -1,6 +1,6 @@
 # SPRINT1-Simulador-de-Sess-o-de-Recarga-em-C
 
-Arthur de Oliveira Cavralho - RM: 573499
+Arthur de Oliveira Carvalho - RM: 573499
 
 Gabriel Henrique S. de Melo Rodrigues - RM: 573093
 
